@@ -1,0 +1,46 @@
+body{
+	padding: 0;
+	margin: 0;
+}
+.container{
+	width: 80%;
+	margin: 0 auto;
+}
+.color-orangered{
+	color: orangered;
+}
+.d-flex{
+	display: flex;
+}
+.half-width{
+	width: 50%;
+}
+.banner-area{
+	align-items: center;
+}
+.banner-title{
+	font-size: 50px;
+	font-weight: 700;
+	font-family: 'Montserrat', sans-serif;
+	color: #575757;
+}
+.banner-left p{
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	font-size: 20;
+	color: #828282;
+	margin-bottom: 50px;
+}
+.banner-right img{
+	width: 100%;
+}
+.liked-btn{
+	
+	text-decoration: none;
+	padding: 10px 40px;
+	border-radius: 20px;
+	background-image: linear-gradient(orange,tomato );
+	color: white;
+	font-family: 'Montserrat';
+
+}
